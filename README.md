@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dahmadi
-- 👀 I’m interested in Finance, specifically investment banking and wealth management 
+- 👀 I’m interested in Finance, specifically investment banking 
 - 🌱 I’m currently Studying CS and Business
 - 📫 How to reach me: https://www.linkedin.com/in/donya-ahmadi-278097197/
 
