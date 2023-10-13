@@ -2,7 +2,6 @@
 - 👀 I’m interested in Fintech
 - 🌱 I’m currently Studying CS and Business
 - 📫 How to reach me: https://www.linkedin.com/in/donya-ahmadi-278097197/
-- My language of choice is: Python
 
 <!---
 dahmadi/dahmadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
