@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dahmadi
-- 👀 I’m interested in Fintech
-- 🌱 I’m currently Studying CS and Business
+- 👀 I’m interested in SWE
+- 🌱 I studied CS and Business
 - 📫 How to reach me: https://www.linkedin.com/in/donya-ahmadi-278097197/
 
 <!---
