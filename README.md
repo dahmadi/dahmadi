@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @dahmadi
-- 👀 I’m interested in SWE, FinTech, Data Science and PM
 - 🌱 I studied CS and Business
 - 📫 How to reach me: https://www.linkedin.com/in/donya-ahmadi-278097197/
 
